@@ -1,0 +1,4 @@
+UserCode	Name	BirthDay	Phone	E-Mail	PWDAnswer	PWDQuestion	
+0	관리자	2000-01-01	011-1111-1111	admin@naver.com	NONE	Admin does not have this question
+1	사용자	2000-01-01	011-1112-1112	user@naver.com	Hello	hi how are you?
+2	4용자	2000-01-02	011-1113-1113	user2@naver.com	byebye	ok

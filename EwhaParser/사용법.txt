@@ -1,0 +1,6 @@
+1. html 폴더에 분석할 html 파일들을 넣음
+   (확장자는 반드시 .html, http://cyber.ewha.ac.kr/mod/ubboard/article.php?id=406043&bwid=1372477 형태의 html만 가능)
+
+2. EhwaParser.exe 실행
+
+3. output 폴더에 결과 저장
